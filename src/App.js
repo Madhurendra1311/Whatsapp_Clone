@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Whatsapp Clone
+      Whatsapp Clone.
     </div>
   );
 }
