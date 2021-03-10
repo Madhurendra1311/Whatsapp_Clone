@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Whatsapp Clone.
+      <h1>Let's build a MERN whatsapp clone.</h1>
     </div>
   );
 }
