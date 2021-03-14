@@ -4,7 +4,7 @@ import "./Chat.css"
 function Chat() {
     return (
         <div>
-            Our Chat Part  
+            <h1>I am Chat</h1> 
         </div>
     )
 }
